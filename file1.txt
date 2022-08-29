@@ -1,3 +1,0 @@
-This is my file1
-Additional lines added
-To check the diff between staged and unstaged
