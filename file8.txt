@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file 8 created on local repo
+=======
+file 8 on remote
+>>>>>>> 94af3ff0ef425e21b847f557ad1c6ecac5553b3f
